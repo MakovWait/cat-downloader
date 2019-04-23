@@ -1,0 +1,6 @@
+# IntellijIdea file
+*.iml
+*.idea
+out
+target
+images
